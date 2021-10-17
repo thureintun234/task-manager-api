@@ -8,4 +8,7 @@
 
 ## Technologies used
 
-` Nodejs for backendcode Mongodb for database Authenticationg with JWT Testing with jest(with supertest)`
+` Nodejs for backendcode`
+` Mongodb for database`
+` Authenticationg with JWT`
+` Testing with jest(with supertest)`
